@@ -1,4 +1,4 @@
-package com.shrey.ratelimiter;
+package com.ps.ratelimiter;
 
 /**
  * Common interface for rate limiting algorithms.
